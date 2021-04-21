@@ -12,6 +12,9 @@ If you want to see how it works without starting in Google Collab, just see the 
 You will work with the CIFAR-10 model and will do it distributed with three workers;  
 They start to work when all of them get the "kernel.py";
 
+* Actually it can be run on computer without GPU because it runs on Google Collab;
+* Docker technology is new for me and I don't know how it works.  
+I spent my time to understand how works multi model.
 
 **Note:**  
 Some times it can not work correctly because Google Collab may not allowed three localhost-workers;  
